@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... func AplicationsDevelopment
 - 🌱 I’m currently learning ...Class FullsStack&Mobile[Bootcamp])
 - 💞️ I’m looking to collaborate on ...String("Community")
-- 📫 How to reach me ... String("maribragadomingues@gmail.com")
+- 📫 How to reach me ... String("maribragad@gmail.com")
 - 😄 Pronouns: ... String("Madam | Miss | Her")
 - ⚡ Fun fact: ...Print("I'm creating a bot to interact, for when the world ends and only me is left.")
 
