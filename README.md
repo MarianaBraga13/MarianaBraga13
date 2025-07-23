@@ -1,5 +1,5 @@
 <!-- Banner de topo -->
-<img src="https://github.com/MarianaBraga13/MarianaBraga13/blob/main/banner.png" alt="banner" />
+<img src="https://github.com/MarianaBraga13/MarianaBraga13/assets/Eu_Dev1A.png" alt="banner" />
 
 # 👋 Olá, aqui é @MarianaBraga
 
