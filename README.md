@@ -1,6 +1,6 @@
 <!-- Banner de topo -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/MarianaBraga13/MarianaBraga13/main/assets/Eu_Dev1A.png" alt="banner"  width="350"/>
+<img src="https://raw.githubusercontent.com/MarianaBraga13/MarianaBraga13/main/assets/Eu_Dev.png" alt="banner"  width="350"/>
 </div>
 
 # 👋 Olá, aqui é @MarianaBraga
