@@ -1,11 +1,11 @@
 <!-- Banner de topo -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/MarianaBraga13/MarianaBraga13/main/assets/Eu_Dev.png" alt="banner"  width="350"/>
+<img src="https://raw.githubusercontent.com/MarianaBraga13/MarianaBraga13/main/assets/banner.png" alt="banner"  width="350"/>
 </div>
 
 # 👋 Olá, aqui é @MarianaBraga
 
-💻 Desenvolvedora em formação 🚀
+💻 Desenvolvedora Python em formação 🚀
 
 Na saga de gerar um loop infinito para qualquer desafio que envolva a possibilidade de desenvolver:
 1. a melhor solução possível
