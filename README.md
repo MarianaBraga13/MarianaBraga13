@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MarianaBraga13/MarianaBraga13/main/assets/novo_banner.png" alt="banner"  width="350"/>
 </div>
 
-# 👋 Olá, aqui é Mariana!
+# 👋 Olá, Bem vindo (a)!
 
 💻 Cursando Engenharia da Computação e Desenvolvedora Python em formação 🚀
 
