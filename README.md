@@ -17,14 +17,23 @@ Na saga de gerar um loop infinito para qualquer desafio que envolva a possibilid
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudando **Desenvolvimento Full Stack em Python** com projetos reais
-- 🧠 Explorando: Flask, Django, FastAPI, React Native, SQLite, Ciência de dados e Inteligência Artificial
+- 🎓 Explorando **Engenharia de Dados & AI**
+- 🧠 AWS, Databricks, Apache Spark, Docker Compose, Kubernetes
 - 🐍 Amo o ecossistema Python e construir soluções úteis para melhorar a vida das pessoas
 - 🎯 Objetivo: Fazer sempre algo novo e melhor todos os dias da minha vida.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🧠 Engenharia de Dados e IA
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
+
+### 🛠️ Tecnologias & Ferramentas Complementares
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
@@ -36,11 +45,9 @@ Na saga de gerar um loop infinito para qualquer desafio que envolva a possibilid
 
 ---
 
-### 💼 Projetos em andamento
+### 💼 Projeto recentemente finalizado
 
-- 💳 **[BancoPY](https://github.com/MarianaBraga13/bancopy_app)** — Sistema bancário com Flask + SQLite + IA
-- 🎓 **AprendaPY** — Plataforma de cursos com Django *(link em breve)*
-- 🛒 **CompraPY** — App de orçamentos com IA e FastAPI *(em construção)*
+- 💳 **[Data](https://github.com/MarianaBraga13/compass-uol-scholarship-aws-cloud-engineering)** - Engenharia de Dados e Data Science
 
 ---
 
