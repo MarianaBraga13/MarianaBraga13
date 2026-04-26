@@ -6,21 +6,22 @@
 
 # 👋 Olá, Bem vindo (a)!🚀
 
----
 ## ♾️ Minha filosofia de evolução
 
 Na saga de gerar um loop infinito para qualquer desafio que envolva desenvolver:
 
-1. 🧠 **A melhor solução possível**
-2. 💻 **O melhor código possível**
-3. 💡 **Para a melhor ideia possível**
-4. 🔁 **Testar, iterar e melhorar no dia seguinte**
+**1.** 🧠 **A melhor solução possível**
+**2.** 💻 **O melhor código possível**
+**3.** 💡 **Para a melhor ideia possível**
+**4.** 🔁 **Testar, iterar e melhorar no dia seguinte**
 
 ---
 
 ## 🤖 Pipeline pessoal de evolução
 
-🧠 Ideia → 💻 Código → ⚙️ Teste → 📊 Aprendizado → 🔁 Repetir
+<p align="center">
+  <img src="https://seu-repo/assets/pipeline.gif" width="600"/>
+</p>
 
 ✨ _Sempre em evolução. Sempre em construção._
 
