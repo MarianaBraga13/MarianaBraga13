@@ -6,12 +6,22 @@
 
 # 👋 Olá, Bem vindo (a)!🚀
 
-## ♾️ Loop de melhoria contínua
+## ♾️ Minha filosofia de evolução
 
-![Solução](https://img.shields.io/badge/1-Solução%20Ótima-blue?style=for-the-badge)
-![Código](https://img.shields.io/badge/2-Código%20Limpo-0A66C2?style=for-the-badge)
-![Ideia](https://img.shields.io/badge/3-Boa%20Ideia-6f42c1?style=for-the-badge)
-![Iteração](https://img.shields.io/badge/4-Iterar%20Sempre-orange?style=for-the-badge)
+Na saga de gerar um loop infinito para qualquer desafio que envolva desenvolver:
+
+1. 🧠 **A melhor solução possível**
+2. 💻 **O melhor código possível**
+3. 💡 **Para a melhor ideia possível**
+4. 🔁 **Testar, iterar e melhorar no dia seguinte**
+
+---
+
+## 🤖 Pipeline pessoal de evolução
+
+🧠 Ideia → 💻 Código → ⚙️ Teste → 📊 Aprendizado → 🔁 Repetir
+
+✨ _Sempre em evolução. Sempre em construção._
 
 ---
 ### 💻 Engenharia de Dados e IA 🧠
