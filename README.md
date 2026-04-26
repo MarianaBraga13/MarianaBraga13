@@ -3,35 +3,17 @@
 <img src="https://raw.githubusercontent.com/MarianaBraga13/MarianaBraga13/main/assets/novo_banner.png" alt="banner"  width="350"/>
 </div>
 
-# 👋 Olá, Bem vindo (a)!
-
-💻 Cloud Data & AI 🚀
-
-Na saga de gerar um loop infinito para qualquer desafio que envolva a possibilidade de desenvolver:
-1. a melhor solução possível
-2. com o melhor código possível
-3. para a melhor ideia possível
-4. testar e melhorar tudo de novo no dia seguinte
-
+# 👋 Olá, Bem vindo (a)!🚀
 ---
 
-### 🚀 Sobre mim
-
-- 🎓 Explorando **Engenharia de Dados & AI**
-- 🧠 AWS, Databricks, Apache Spark, Docker Compose, Kubernetes
-- 🐍 Amo o ecossistema Python e construir soluções úteis para melhorar a vida das pessoas
-- 🎯 Objetivo: Fazer sempre algo novo e melhor todos os dias da minha vida.
-
----
-
-### 🧠 Engenharia de Dados e IA
+### 💻 Engenharia de Dados e IA 🧠
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-
+---
 
 ### 🛠️ Tecnologias & Ferramentas Complementares
 
@@ -45,11 +27,30 @@ Na saga de gerar um loop infinito para qualquer desafio que envolva a possibilid
 
 ---
 
+---
+
 ### 💼 Projeto recentemente finalizado
 
 - 💳 **[AWS Cloud Engineering Project](https://github.com/MarianaBraga13/compass-uol-scholarship-aws-cloud-engineering)** - Engenharia de Dados e Data Science
 
 ---
+
+### 🚀 Sobre mim
+
+- 🎓 Explorando **Engenharia de Dados & AI**
+- 🧠 AWS, Databricks, Apache Spark, Docker Compose, Kubernetes
+- 🐍 Amo o ecossistema Python e construir soluções úteis para melhorar a vida das pessoas
+- 🎯 Objetivo: Fazer sempre algo novo e melhor todos os dias da minha vida.
+
+---
+
+Na saga de gerar um loop infinito para qualquer desafio que envolva a possibilidade de desenvolver:
+1. a melhor solução possível
+2. com o melhor código possível
+3. para a melhor ideia possível
+4. testar e melhorar tudo de novo no dia seguinte
+
+
 
 ### 📊 Estatísticas do GitHub
 
