@@ -3,8 +3,16 @@
 <img src="https://raw.githubusercontent.com/MarianaBraga13/MarianaBraga13/main/assets/github.png" alt="banner"  width="550"/>
 </div>
 
+
 # 👋 Olá, Bem vindo (a)!🚀
 
+Na saga de gerar um loop infinito para qualquer desafio que envolva a possibilidade de desenvolver:
+1. a melhor solução possível
+2. com o melhor código possível
+3. para a melhor ideia possível
+4. testar e melhorar tudo de novo no dia seguinte
+
+---
 ### 💻 Engenharia de Dados e IA 🧠
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
@@ -26,8 +34,6 @@
 
 ---
 
----
-
 ### 💼 Projeto recentemente finalizado
 
 - 💳 **[AWS Cloud Engineering Project](https://github.com/MarianaBraga13/compass-uol-scholarship-aws-cloud-engineering)** - Engenharia de Dados e Data Science
@@ -42,14 +48,6 @@
 - 🎯 Objetivo: Fazer sempre algo novo e melhor todos os dias da minha vida.
 
 ---
-
-Na saga de gerar um loop infinito para qualquer desafio que envolva a possibilidade de desenvolver:
-1. a melhor solução possível
-2. com o melhor código possível
-3. para a melhor ideia possível
-4. testar e melhorar tudo de novo no dia seguinte
-
-
 
 ### 📊 Estatísticas do GitHub
 
