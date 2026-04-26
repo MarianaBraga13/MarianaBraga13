@@ -5,7 +5,7 @@
 
 # 👋 Olá, Bem vindo (a)!
 
-💻 Cursando Engenharia da Computação e Desenvolvedora Python em formação 🚀
+💻 Cloud Data & AI 🚀
 
 Na saga de gerar um loop infinito para qualquer desafio que envolva a possibilidade de desenvolver:
 1. a melhor solução possível
@@ -47,7 +47,7 @@ Na saga de gerar um loop infinito para qualquer desafio que envolva a possibilid
 
 ### 💼 Projeto recentemente finalizado
 
-- 💳 **[Data](https://github.com/MarianaBraga13/compass-uol-scholarship-aws-cloud-engineering)** - Engenharia de Dados e Data Science
+- 💳 **[AWS Cloud Engineering Project](https://github.com/MarianaBraga13/compass-uol-scholarship-aws-cloud-engineering)** - Engenharia de Dados e Data Science
 
 ---
 
