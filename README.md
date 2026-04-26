@@ -11,9 +11,11 @@
 Na saga de gerar um loop infinito para qualquer desafio que envolva desenvolver:
 
 1. 🧠 **A melhor solução possível**
-  2. 💻 **O melhor código possível**
-   3. 💡 **Para a melhor ideia possível**
-      4. 🔁 **Testar, iterar e melhorar no dia seguinte**
+2. 💻 **O melhor código possível**
+  3. 💡 **Para a melhor ideia possível**
+  4. 🔁 **Testar, iterar e melhorar no dia seguinte**
+
+      
 
 ---
 
