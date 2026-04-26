@@ -6,11 +6,12 @@
 
 # 👋 Olá, Bem vindo (a)!🚀
 
-Na saga de gerar um loop infinito para qualquer desafio que envolva a possibilidade de desenvolver:
-1. a melhor solução possível
-2. com o melhor código possível
-3. para a melhor ideia possível
-4. testar e melhorar tudo de novo no dia seguinte
+## ♾️ Loop de melhoria contínua
+
+![Solução](https://img.shields.io/badge/1-Solução%20Ótima-blue?style=for-the-badge)
+![Código](https://img.shields.io/badge/2-Código%20Limpo-0A66C2?style=for-the-badge)
+![Ideia](https://img.shields.io/badge/3-Boa%20Ideia-6f42c1?style=for-the-badge)
+![Iteração](https://img.shields.io/badge/4-Iterar%20Sempre-orange?style=for-the-badge)
 
 ---
 ### 💻 Engenharia de Dados e IA 🧠
