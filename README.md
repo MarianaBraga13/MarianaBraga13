@@ -20,7 +20,7 @@ Na saga de gerar um loop infinito para qualquer desafio que envolva desenvolver:
 ## 🤖 Pipeline pessoal de evolução
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MarianaBraga13/MarianaBraga13/main)o/assets/pipeline.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/MarianaBraga13/MarianaBraga13/main/assets/pipeline.gif" width="550"/>
 </p>
 
 ✨ _Sempre em evolução. Sempre em construção._
