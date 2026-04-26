@@ -6,6 +6,7 @@
 
 # 👋 Olá, Bem vindo (a)!🚀
 
+---
 ## ♾️ Minha filosofia de evolução
 
 Na saga de gerar um loop infinito para qualquer desafio que envolva desenvolver:
