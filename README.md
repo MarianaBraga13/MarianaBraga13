@@ -1,9 +1,3 @@
-<!-- Banner de topo -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/MarianaBraga13/MarianaBraga13/main/assets/github.png" alt="banner"  width="550"/>
-</div>
-<br></br>
-
 # 👋 Olá, Bem vindo (a)!🚀
 
 ## ♾️ Minha filosofia de evolução
